@@ -1,0 +1,10 @@
+D:\github\C#\c-sharp-emp-app\bin\Debug\netcoreapp2.0\c-sharp-emp-app.deps.json
+D:\github\C#\c-sharp-emp-app\bin\Debug\netcoreapp2.0\c-sharp-emp-app.runtimeconfig.json
+D:\github\C#\c-sharp-emp-app\bin\Debug\netcoreapp2.0\c-sharp-emp-app.runtimeconfig.dev.json
+D:\github\C#\c-sharp-emp-app\bin\Debug\netcoreapp2.0\c-sharp-emp-app.dll
+D:\github\C#\c-sharp-emp-app\bin\Debug\netcoreapp2.0\c-sharp-emp-app.pdb
+D:\github\C#\c-sharp-emp-app\obj\Debug\netcoreapp2.0\c-sharp-emp-app.csproj.CoreCompileInputs.cache
+D:\github\C#\c-sharp-emp-app\obj\Debug\netcoreapp2.0\c-sharp-emp-app.AssemblyInfoInputs.cache
+D:\github\C#\c-sharp-emp-app\obj\Debug\netcoreapp2.0\c-sharp-emp-app.AssemblyInfo.cs
+D:\github\C#\c-sharp-emp-app\obj\Debug\netcoreapp2.0\c-sharp-emp-app.dll
+D:\github\C#\c-sharp-emp-app\obj\Debug\netcoreapp2.0\c-sharp-emp-app.pdb
