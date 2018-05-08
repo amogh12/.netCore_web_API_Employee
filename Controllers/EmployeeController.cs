@@ -17,6 +17,9 @@ namespace c_sharp_emp_app.Controllers
 
              if(context.Employees.Count() == 0) {
                  context.Employees.Add(new Employee {Name="John", Age=25});
+                 context.Employees.Add(new Employee {Name="Bill", Age=23});
+                 context.Employees.Add(new Employee {Name="Steve", Age=44});
+                 context.Employees.Add(new Employee {Name="Will", Age=50});
                  context.SaveChanges();
              }
         }
@@ -25,7 +28,12 @@ namespace c_sharp_emp_app.Controllers
         public List<Employee> GetAll() {
            return context.Employees.ToList();
         }
-
+        
+        [HttpGet("{id}", Name = "GetTodo")]
+        public Employee getById(int id) {
+            var item = context.Employees.Find(id);
+            return item;
+        }
 
 
     }
